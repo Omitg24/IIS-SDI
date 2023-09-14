@@ -1,0 +1,18 @@
+[submodule "Entrega2/SDI2223-entrega2-32"]
+	path = Entrega2/SDI2223-entrega2-32
+	url = https://github.com/Omitg24/SDI2223-entrega2-32
+[submodule "SDI-2223-313-lab-jee"]
+	path = SDI-2223-313-lab-jee
+	url = https://github.com/Omitg24/SDI-2223-313-lab-jee.git
+[submodule "SDI-2223-313-lab-spring"]
+	path = SDI-2223-313-lab-spring
+	url = https://github.com/Omitg24/SDI-2223-313-lab-spring.git
+[submodule "SDI2223-313-lab-nodejs"]
+	path = SDI2223-313-lab-nodejs
+	url = https://github.com/Omitg24/SDI2223-313-lab-nodejs.git
+[submodule "SDI2223-313-lab-soap-sw"]
+	path = SDI2223-313-lab-soap-sw
+	url = https://github.com/Omitg24/SDI2223-313-lab-soap-sw.git
+[submodule "Entrega1/SDI2223-entrega1-32"]
+	path = Entrega1/SDI2223-entrega1-32
+	url = https://github.com/Omitg24/SDI2223-entrega1-32.git
